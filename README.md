@@ -117,7 +117,4 @@ Make sure mongodb and fabric network are running in the background before starti
     ```
 
 
-Project Link: [https://github.com/TasinIshmam/blockchain-academic-certificates](https://github.com/TasinIshmam/blockchain-academic-certificates)
-
-
 
